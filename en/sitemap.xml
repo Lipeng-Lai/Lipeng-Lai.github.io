@@ -2,36 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lipeng-lai.github.io/tags/scene/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lipeng-lai.github.io/fr/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lipeng-lai.github.io/tags/scene/"
-                />
-  </url><url>
-    <loc>https://lipeng-lai.github.io/tags/</loc>
-    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lipeng-lai.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lipeng-lai.github.io/tags/"
-                />
-  </url><url>
     <loc>https://lipeng-lai.github.io/post/dalian/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -56,6 +26,36 @@
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://lipeng-lai.github.io/tags/scene/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lipeng-lai.github.io/fr/tags/scene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lipeng-lai.github.io/tags/scene/"
+                />
+  </url><url>
+    <loc>https://lipeng-lai.github.io/tags/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lipeng-lai.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lipeng-lai.github.io/tags/"
+                />
   </url><url>
     <loc>https://lipeng-lai.github.io/post/qingdao/</loc>
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
