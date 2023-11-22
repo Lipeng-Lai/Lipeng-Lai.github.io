@@ -27,36 +27,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lipeng-lai.github.io/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lipeng-lai.github.io/fr/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lipeng-lai.github.io/tags/scene/"
-                />
-  </url><url>
-    <loc>https://lipeng-lai.github.io/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lipeng-lai.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lipeng-lai.github.io/tags/"
-                />
-  </url><url>
     <loc>https://lipeng-lai.github.io/post/qingdao/</loc>
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -112,6 +82,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lipeng-lai.github.io/contact/"
+                />
+  </url><url>
+    <loc>https://lipeng-lai.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lipeng-lai.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lipeng-lai.github.io/tags/"
                 />
   </url>
 </urlset>
